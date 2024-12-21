@@ -95,5 +95,7 @@ lib/
 - Improve UI and animations.
 - Cart functionality etc.
 
+## Video
+https://drive.google.com/file/d/1EHjLPwmkyZZ7CdTOG4hNoeKHz5jAxAPg/view?usp=sharing
 
 
